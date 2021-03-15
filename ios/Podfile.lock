@@ -70,7 +70,7 @@ PODS:
   - OpenSSL-Universal (1.0.2.20):
     - OpenSSL-Universal/Static (= 1.0.2.20)
   - OpenSSL-Universal/Static (1.0.2.20)
-  - Permission-Camera (3.0.0-beta.2):
+  - Permission-Camera (3.0.1):
     - RNPermissions
   - RCTRequired (0.63.3)
   - RCTTypeSafety (0.63.3):
@@ -298,7 +298,7 @@ PODS:
     - React-Core (= 0.63.3)
     - React-cxxreact (= 0.63.3)
     - React-jsi (= 0.63.3)
-  - RNPermissions (3.0.0-beta.2):
+  - RNPermissions (3.0.1):
     - React-Core
   - ViroKit_static_lib (1.0)
   - ViroReact (1.0):
@@ -454,7 +454,7 @@ SPEC CHECKSUMS:
   Folly: b73c3869541e86821df3c387eb0af5f65addfab4
   glog: 40a13f7840415b9a77023fbcae0f1e6f43192af3
   OpenSSL-Universal: ff34003318d5e1163e9529b08470708e389ffcdd
-  Permission-Camera: abef7a26b510c421c101a5e2eee6c82f00ed5cbf
+  Permission-Camera: b2e50546c095139bb1264be9c34c796332340d32
   RCTRequired: 48884c74035a0b5b76dbb7a998bd93bcfc5f2047
   RCTTypeSafety: edf4b618033c2f1c5b7bc3d90d8e085ed95ba2ab
   React: f36e90f3ceb976546e97df3403e37d226f79d0e3
@@ -475,7 +475,7 @@ SPEC CHECKSUMS:
   React-RCTText: 65a6de06a7389098ce24340d1d3556015c38f746
   React-RCTVibration: 8e9fb25724a0805107fc1acc9075e26f814df454
   ReactCommon: 4167844018c9ed375cc01a843e9ee564399e53c3
-  RNPermissions: 9e7561bcbab267e3f64a4f6509edc00ae0de1519
+  RNPermissions: 4c8a37b4dde50f1f152bf8cd08c4a43d2355829e
   ViroKit_static_lib: 757b887d543c671838296e5ad32f75598067dcba
   ViroReact: f4980e6b04918c4340637f9cbaae22a6bb7ea440
   Yoga: 7d13633d129fd179e01b8953d38d47be90db185a
@@ -483,4 +483,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: c8fe2671cf5b60922e260a6b96f22d6901fc585e
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.10.1
